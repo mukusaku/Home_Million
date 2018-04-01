@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Home_Million</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="show_apps">Show Apps</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
