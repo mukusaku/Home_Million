@@ -6,5 +6,6 @@
     <color name="black_overlay">#66000000</color>
 
     <color name="gray_black">#383838</color>
+    <color name="line_pink">#e35c8b</color>
 
 </resources>
