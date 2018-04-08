@@ -21,7 +21,7 @@
         android:layout_height="wrap_content"
         android:adjustViewBounds="true"
         android:layout_gravity="center_horizontal"
-        android:src="@drawable/message_box" />
+        android:src="@drawable/home_text_1" />
 
     <LinearLayout
         android:layout_width="match_parent"
